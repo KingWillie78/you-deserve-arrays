@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 function getFirstItemFrom(array){
   return array[0];
 }
